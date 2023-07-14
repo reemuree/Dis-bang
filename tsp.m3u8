@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="eng",NAME="Bangla",AUTOSELECT=YES,DEFAULT=YES,URI="https://mobile.musajeeb.online/T-Sports-HD/tracks-a1/index.fmp4.m3u8"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,AUDIO="URI"
-https://mobile.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8
+
+https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1689380646:KeyName=prod_linear:Signature=7DQv9lR6kgSMB27FOfxbygyBOA9832p4KR-MyGC8zm26pjiq-cb6p6OY3k5O3GE9XlxgFCEhBt0PF4JKH41gDA&auth=mobius-the-pro
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000,AUDIO="URI"
-https://mobile.musajeeb.online/T-Sports-HD/tracks-v1/index.fmp4.m3u8
+https://mprod-cdn.toffeelive.com/banvsafg/match-1/index.m3u8|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1689380646:KeyName=prod_linear:Signature=7DQv9lR6kgSMB27FOfxbygyBOA9832p4KR-MyGC8zm26pjiq-cb6p6OY3k5O3GE9XlxgFCEhBt0PF4JKH41gDA&auth=mobius-the-pro
