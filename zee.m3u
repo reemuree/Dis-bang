@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 tvg-id="zee" group-title="Zee Channels",Zee TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Zee Channels",Zee TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",&TV
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",&TV HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Anmol
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Zee Channels",Zee Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Zee Channels",Zee Cinema HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF:0 tvg-id="Pictures.in" group-title="Zee Channels",&Pictures
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
+#EXTINF:0 tvg-id="Pictures.in" group-title="Zee Channels",&Pictures HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Zee Channels",Zee Bollywood
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Zee Channels",Zee Action
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Anmol Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="Zee Channels",Zee News
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeenews/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Hindustan
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeehindustan/default/index.m3u8
+#EXTINF:0 tvg-id="mir" group-title="Zee Channels",Zee Business
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebusiness/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Wion
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Wion/default/index.m3u8
+#EXTINF:0 tvg-id="Zing.uk" group-title="Zee Channels",Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Salaam
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeesalaam/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeMarathi.in" group-title="Zee Channels",Zee Marathi
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathi/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeMarathi.in" group-title="Zee Channels",Zee Marathi HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Zee Channels",Zee Talkies
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkies/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Zee Channels",Zee Talkies HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Zee Channels",Zee Bangla
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Zee Channels",Zee Bangla HD
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Bangla Cinema
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Tamil
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Zee Channels",Zee Cinemalu
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemalu/default/index.m3u8
+#EXTINF:0 tvg-id="ZeeKannada.in" group-title="Zee Channels",Zee Kannada
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeekannada/default/index.m3u8
