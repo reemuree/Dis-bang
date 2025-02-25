@@ -1,42 +1,123 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Star Sports 2", http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Enterr10 Bangla", http://172.16.88.20:18190/enterr10bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="NTV", http://172.16.88.10:18190/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sun Bangla", http://172.16.88.20:18190/sunbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla Cinema", http://172.16.88.20:18190/zeebanglacinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 2", http://172.16.88.30:18190/sonysportsten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 2", http://172.16.88.30:18190/starsportsselect2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Bangla", http://172.16.88.20:18190/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Desh TV", http://172.16.88.10:18190/deshtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="71 TV", http://172.16.88.20:18190/71/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="My TV", http://172.16.88.10:18190/mytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Jalsha Movies", http://172.16.88.20:18190/jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Asian TV", http://172.16.88.10:18190/asian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 24", http://172.16.88.20:18190/channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nagorik TV", http://172.16.88.10:18190/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Ekushey TV", http://172.16.88.10:18190/ekusheytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="News 24", http://172.16.88.30:18190/news24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Boishakhi TV", http://172.16.88.10:18190/boishakhitv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Ananda TV", http://172.16.88.20:18190/anandatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Bangla Vision", http://172.16.88.10:18190/banglavision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Colors Bangla", http://172.16.88.20:18190/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Nexus Television", http://172.16.88.30:18190/nexustelevision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SA TV", http://172.16.88.10:18190/satv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Maasranga TV", http://172.16.88.10:18190/maasranga/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel 9", http://172.16.88.10:18190/channel9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="GTV", http://172.16.88.10:18190/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="T Sports", http://172.16.88.30:18190/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="BTV", http://172.16.88.10:18190/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Channel i", http://172.16.88.10:18190/channeli/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports 1", http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="RTV", http://172.16.88.10:18190/rtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports Select 1", http://172.16.88.30:18190/starsportsselect1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Mohona TV", http://172.16.88.10:18190/mohonatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Duronto TV", http://172.16.88.30:18190/duronto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 1", http://172.16.88.30:18190/sonysportsten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="EuroSport", http://172.16.88.30:18190/eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Independent TV", http://172.16.88.20:18190/independent/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Deepto TV", http://172.16.88.10:18190/deepto/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 5", http://172.16.88.30:18190/sonysportsten5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Bijoy TV", http://172.16.88.10:18190/bijoytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Ten Cricket", http://172.16.88.40:18190/tencricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in" tvg-name="Star Sports 2" tvg-logo="https://example.com/logos/starsports2.png" group-title="Sports",Star Sports 2
+http://172.16.88.30:18190/starsports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" tvg-name="Enterr10 Bangla" tvg-logo="https://example.com/logos/enterr10bangla.png" group-title="Entertainment",Enterr10 Bangla
+http://172.16.88.20:18190/enterr10bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NTV.in" tvg-name="NTV" tvg-logo="https://example.com/logos/ntv.png" group-title="News",NTV
+http://172.16.88.10:18190/ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SunBangla.in" tvg-name="Sun Bangla" tvg-logo="https://example.com/logos/sunbangla.png" group-title="Entertainment",Sun Bangla
+http://172.16.88.20:18190/sunbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://example.com/logos/zeebanglacinema.png" group-title="Movies",Zee Bangla Cinema
+http://172.16.88.20:18190/zeebanglacinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen2.in" tvg-name="Sony Sports Ten 2" tvg-logo="https://example.com/logos/sonysportsten2.png" group-title="Sports",Sony Sports Ten 2
+http://172.16.88.30:18190/sonysportsten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect2.in" tvg-name="Star Sports Select 2" tvg-logo="https://example.com/logos/starsportsselect2.png" group-title="Sports",Star Sports Select 2
+http://172.16.88.30:18190/starsportsselect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" tvg-name="Zee Bangla" tvg-logo="https://example.com/logos/zeebangla.png" group-title="Entertainment",Zee Bangla
+http://172.16.88.20:18190/zeebangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeshTV.in" tvg-name="Desh TV" tvg-logo="https://example.com/logos/deshtv.png" group-title="News",Desh TV
+http://172.16.88.10:18190/deshtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="71TV.in" tvg-name="71 TV" tvg-logo="https://example.com/logos/71tv.png" group-title="Entertainment",71 TV
+http://172.16.88.20:18190/71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MyTV.in" tvg-name="My TV" tvg-logo="https://example.com/logos/mytv.png" group-title="Entertainment",My TV
+http://172.16.88.10:18190/mytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" tvg-name="Jalsha Movies" tvg-logo="https://example.com/logos/jalshamovies.png" group-title="Movies",Jalsha Movies
+http://172.16.88.20:18190/jalshamovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AsianTV.in" tvg-name="Asian TV" tvg-logo="https://example.com/logos/asiantv.png" group-title="Entertainment",Asian TV
+http://172.16.88.10:18190/asian/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel24.in" tvg-name="Channel 24" tvg-logo="https://example.com/logos/channel24.png" group-title="News",Channel 24
+http://172.16.88.20:18190/channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NagorikTV.in" tvg-name="Nagorik TV" tvg-logo="https://example.com/logos/nagoriktv.png" group-title="News",Nagorik TV
+http://172.16.88.10:18190/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.in" tvg-name="Ekushey TV" tvg-logo="https://example.com/logos/ekusheytv.png" group-title="News",Ekushey TV
+http://172.16.88.10:18190/ekusheytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="News24.in" tvg-name="News 24" tvg-logo="https://example.com/logos/news24.png" group-title="News",News 24
+http://172.16.88.30:18190/news24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.in" tvg-name="Boishakhi TV" tvg-logo="https://example.com/logos/boishakhitv.png" group-title="Entertainment",Boishakhi TV
+http://172.16.88.10:18190/boishakhitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AnandaTV.in" tvg-name="Ananda TV" tvg-logo="https://example.com/logos/anandatv.png" group-title="Entertainment",Ananda TV
+http://172.16.88.20:18190/anandatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BanglaVision.in" tvg-name="Bangla Vision" tvg-logo="https://example.com/logos/banglavision.png" group-title="News",Bangla Vision
+http://172.16.88.10:18190/banglavision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" tvg-name="Colors Bangla" tvg-logo="https://example.com/logos/colorsbangla.png" group-title="Entertainment",Colors Bangla
+http://172.16.88.20:18190/colorsbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="NexusTelevision.in" tvg-name="Nexus Television" tvg-logo="https://example.com/logos/nexustelevision.png" group-title="Entertainment",Nexus Television
+http://172.16.88.30:18190/nexustelevision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SATV.in" tvg-name="SA TV" tvg-logo="https://example.com/logos/satv.png" group-title="Entertainment",SA TV
+http://172.16.88.10:18190/satv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MaasrangaTV.in" tvg-name="Maasranga TV" tvg-logo="https://example.com/logos/maasranga.png" group-title="Entertainment",Maasranga TV
+http://172.16.88.10:18190/maasranga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel9.in" tvg-name="Channel 9" tvg-logo="https://example.com/logos/channel9.png" group-title="Entertainment",Channel 9
+http://172.16.88.10:18190/channel9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="GTV.in" tvg-name="GTV" tvg-logo="https://example.com/logos/gtv.png" group-title="Entertainment",GTV
+http://172.16.88.10:18190/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TSports.in" tvg-name="T Sports" tvg-logo="https://example.com/logos/tsports.png" group-title="Sports",T Sports
+http://172.16.88.30:18190/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BTV.in" tvg-name="BTV" tvg-logo="https://example.com/logos/btv.png" group-title="Entertainment",BTV
+http://172.16.88.10:18190/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channeli.in" tvg-name="Channel i" tvg-logo="https://example.com/logos/channeli.png" group-title="Entertainment",Channel i
+http://172.16.88.10:18190/channeli/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSports1.in" tvg-name="Star Sports 1" tvg-logo="https://example.com/logos/starsports1.png" group-title="Sports",Star Sports 1
+http://172.16.88.30:18190/starsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RTV.in" tvg-name="RTV" tvg-logo="https://example.com/logos/rtv.png" group-title="Entertainment",RTV
+http://172.16.88.10:18190/rtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1.in" tvg-name="Star Sports Select 1" tvg-logo="https://example.com/logos/starsportsselect1.png" group-title="Sports",Star Sports Select 1
+http://172.16.88.30:18190/starsportsselect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="MohonaTV.in" tvg-name="Mohona TV" tvg-logo="https://example.com/logos/mohonatv.png" group-title="Entertainment",Mohona TV
+http://172.16.88.10:18190/mohonatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DurontoTV.in" tvg-name="Duronto TV" tvg-logo="https://example.com/logos/duronto.png" group-title="Entertainment",Duronto TV
+http://172.16.88.30:18190/duronto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen1.in" tvg-name="Sony Sports Ten 1" tvg-logo="https://example.com/logos/sonysportsten1.png" group-title="Sports",Sony Sports Ten 1
+http://172.16.88.30:18190/sonysportsten1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EuroSport.in" tvg-name="EuroSport" tvg-logo="https://example.com/logos/eurosport.png" group-title="Sports",EuroSport
+http://172.16.88.30:18190/eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV.in" tvg-name="Independent TV" tvg-logo="https://example.com/logos/independent.png" group-title="News",Independent TV
+http://172.16.88.20:18190/independent/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="DeeptoTV.in" tvg-name="Deepto TV" tvg-logo="https://example.com/logos/deepto.png" group-title="Entertainment",Deepto TV
+http://172.16.88.10:18190/deepto/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SonySportsTen5.in" tvg-name="Sony Sports Ten 5" tvg-logo="https://example.com/logos/sonysportsten5.png" group-title="Sports",Sony Sports Ten 5
+http://172.16.88.30:18190/sonysportsten5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="BijoyTV.in" tvg-name="Bijoy TV" tvg-logo="https://example.com/logos/bijoytv.png" group-title="Entertainment",Bijoy TV
+http://172.16.88.10:18190/bijoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Ten Cricket" tvg-logo="https://example.com/logos/tencricket.png" group-title="Sports",Ten Cricket
+http://172.16.88.40:18190/tencricket/tracks-v1a1/mono.m3u8
