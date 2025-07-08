@@ -1,0 +1,198 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel13" tvg-name="Channel 13" group-title="General",Channel 13
+http://113.192.43.154:8080/13/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel66" tvg-name="Channel 66" group-title="General",Channel 66
+http://113.192.43.154:8080/66/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel65" tvg-name="Channel 65" group-title="General",Channel 65
+http://113.192.43.154:8080/65/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel99" tvg-name="Channel 99" group-title="General",Channel 99
+http://113.192.43.154:8080/99/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV1" tvg-name="Cloud TV 1" group-title="General",Cloud TV 1
+http://itcnbd.live/cloudtv/1743555343987.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV2" tvg-name="Cloud TV 2" group-title="General",Cloud TV 2
+http://itcnbd.live/cloudtv/1743281501175.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV3" tvg-name="Cloud TV 3" group-title="General",Cloud TV 3
+http://itcnbd.live/cloudtv/1743012009583.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV4" tvg-name="Cloud TV 4" group-title="General",Cloud TV 4
+http://itcnbd.live/cloudtv/1744772014540.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV5" tvg-name="Cloud TV 5" group-title="General",Cloud TV 5
+http://itcnbd.live/cloudtv/1744664018367.m3u8
+
+#EXTINF:-1 tvg-id="Channel50" tvg-name="Channel 50" group-title="General",Channel 50
+http://113.192.43.154:8080/50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV6" tvg-name="Cloud TV 6" group-title="General",Cloud TV 6
+http://itcnbd.live/cloudtv/1744664205283.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV7" tvg-name="Cloud TV 7" group-title="General",Cloud TV 7
+http://itcnbd.live/cloudtv/1744664050488.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV8" tvg-name="Cloud TV 8" group-title="General",Cloud TV 8
+http://itcnbd.live/cloudtv/1743100955769.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV9" tvg-name="Cloud TV 9" group-title="General",Cloud TV 9
+http://itcnbd.live/cloudtv/1744662256048.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV10" tvg-name="Cloud TV 10" group-title="General",Cloud TV 10
+http://itcnbd.live/cloudtv/1744771588117.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV11" tvg-name="Cloud TV 11" group-title="General",Cloud TV 11
+http://itcnbd.live/cloudtv/1744663941983.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV12" tvg-name="Cloud TV 12" group-title="General",Cloud TV 12
+http://itcnbd.live/cloudtv/1744773002365.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV13" tvg-name="Cloud TV 13" group-title="General",Cloud TV 13
+http://itcnbd.live/cloudtv/1744664069401.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV14" tvg-name="Cloud TV 14" group-title="General",Cloud TV 14
+http://itcnbd.live/cloudtv/1744662526474.m3u8
+
+#EXTINF:-1 tvg-id="Channel56" tvg-name="Channel 56" group-title="General",Channel 56
+http://113.192.43.154:8080/56/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV15" tvg-name="Cloud TV 15" group-title="General",Cloud TV 15
+http://itcnbd.live/cloudtv/1743289547975.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV16" tvg-name="Cloud TV 16" group-title="General",Cloud TV 16
+http://itcnbd.live/cloudtv/1743018335900.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV17" tvg-name="Cloud TV 17" group-title="General",Cloud TV 17
+http://itcnbd.live/cloudtv/1743017681682.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV18" tvg-name="Cloud TV 18" group-title="General",Cloud TV 18
+http://itcnbd.live/cloudtv/1743017958008.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV19" tvg-name="Cloud TV 19" group-title="General",Cloud TV 19
+http://itcnbd.live/cloudtv/1744664115724.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV20" tvg-name="Cloud TV 20" group-title="General",Cloud TV 20
+http://itcnbd.live/cloudtv/1743098626999.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV21" tvg-name="Cloud TV 21" group-title="General",Cloud TV 21
+http://itcnbd.live/cloudtv/1744662448484.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV22" tvg-name="Cloud TV 22" group-title="General",Cloud TV 22
+http://itcnbd.live/cloudtv/1743551064875.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV23" tvg-name="Cloud TV 23" group-title="General",Cloud TV 23
+http://itcnbd.live:8080/35/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV24" tvg-name="Cloud TV 24" group-title="General",Cloud TV 24
+http://itcnbd.live/cloudtv/1744662418727.m3u8
+
+#EXTINF:-1 tvg-id="Channel27" tvg-name="Channel 27" group-title="General",Channel 27
+http://113.192.43.154:8080/27/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel71" tvg-name="Channel 71" group-title="General",Channel 71
+http://113.192.43.154:8080/71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV25" tvg-name="Cloud TV 25" group-title="General",Cloud TV 25
+http://itcnbd.live/cloudtv/1743553215693.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV26" tvg-name="Cloud TV 26" group-title="General",Cloud TV 26
+http://itcnbd.live/cloudtv/1743018479488.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV27" tvg-name="Cloud TV 27" group-title="General",Cloud TV 27
+http://itcnbd.live/cloudtv/1743281381389.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV28" tvg-name="Cloud TV 28" group-title="General",Cloud TV 28
+http://itcnbd.live/cloudtv/1743551812597.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV29" tvg-name="Cloud TV 29" group-title="General",Cloud TV 29
+http://itcnbd.live/cloudtv/1743018412949.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV30" tvg-name="Cloud TV 30" group-title="General",Cloud TV 30
+http://itcnbd.live/cloudtv/1743542373826.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV31" tvg-name="Cloud TV 31" group-title="General",Cloud TV 31
+http://itcnbd.live/cloudtv/1743100898825.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV32" tvg-name="Cloud TV 32" group-title="General",Cloud TV 32
+http://itcnbd.live/cloudtv/1743099075078.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV33" tvg-name="Cloud TV 33" group-title="General",Cloud TV 33
+http://itcnbd.live/cloudtv/1744775202401.m3u8
+
+#EXTINF:-1 tvg-id="Channel14" tvg-name="Channel 14" group-title="General",Channel 14
+http://113.192.43.154:8080/14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV34" tvg-name="Cloud TV 34" group-title="General",Cloud TV 34
+http://itcnbd.live/cloudtv/1745144496905.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV35" tvg-name="Cloud TV 35" group-title="General",Cloud TV 35
+http://itcnbd.live/cloudtv/1745120121718.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV36" tvg-name="Cloud TV 36" group-title="General",Cloud TV 36
+http://itcnbd.live/cloudtv/1744013031560.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV37" tvg-name="Cloud TV 37" group-title="General",Cloud TV 37
+http://itcnbd.live/cloudtv/1744664182801.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV38" tvg-name="Cloud TV 38" group-title="General",Cloud TV 38
+http://itcnbd.live/cloudtv/1743281540455.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV39" tvg-name="Cloud TV 39" group-title="General",Cloud TV 39
+http://itcnbd.live/cloudtv/1745119941130.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV40" tvg-name="Cloud TV 40" group-title="General",Cloud TV 40
+http://itcnbd.live/cloudtv/1745119246399.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV41" tvg-name="Cloud TV 41" group-title="General",Cloud TV 41
+http://itcnbd.live/cloudtv/1743551774539.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV42" tvg-name="Cloud TV 42" group-title="General",Cloud TV 42
+http://itcnbd.live/cloudtv/1743281340957.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV43" tvg-name="Cloud TV 43" group-title="General",Cloud TV 43
+http://itcnbd.live/cloudtv/1744773856821.m3u8
+
+#EXTINF:-1 tvg-id="Channel88" tvg-name="Channel 88" group-title="General",Channel 88
+http://113.192.43.154:8080/88/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV44" tvg-name="Cloud TV 44" group-title="General",Cloud TV 44
+http://itcnbd.live/cloudtv/1743289513200.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV45" tvg-name="Cloud TV 45" group-title="General",Cloud TV 45
+http://itcnbd.live/cloudtv/1743281092131.m3u8
+
+#EXTINF:-1 tvg-id="Channel91" tvg-name="Channel 91" group-title="General",Channel 91
+http://113.192.43.154:8080/91/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV46" tvg-name="Cloud TV 46" group-title="General",Cloud TV 46
+http://itcnbd.live/cloudtv/1745117412375.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV47" tvg-name="Cloud TV 47" group-title="General",Cloud TV 47
+http://itcnbd.live/cloudtv/1744775615859.m3u8
+
+#EXTINF:-1 tvg-id="Channel78" tvg-name="Channel 78" group-title="General",Channel 78
+http://113.192.43.154:8080/78/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel73" tvg-name="Channel 73" group-title="General",Channel 73
+http://113.192.43.154:8080/73/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV48" tvg-name="Cloud TV 48" group-title="General",Cloud TV 48
+http://itcnbd.live/cloudtv/1745117673331.m3u8
+
+#EXTINF:-1 tvg-id="Channel39" tvg-name="Channel 39" group-title="General",Channel 39
+http://113.192.43.154:8080/39/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV49" tvg-name="Cloud TV 49" group-title="General",Cloud TV 49
+http://itcnbd.live/cloudtv/1743546888991.m3u8
+
+#EXTINF:-1 tvg-id="CloudTV50" tvg-name="Cloud TV 50" group-title="General",Cloud TV 50
+http://itcnbd.live/cloudtv/1743100377651.m3u8
+
+#EXTINF:-1 tvg-id="Channel23" tvg-name="Channel 23" group-title="General",Channel 23
+http://113.192.43.154:8080/23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Channel55" tvg-name="Channel 55" group-title="General",Channel 55
+http://113.192.43.154:8080/55/tracks-v1a1/mono.m3u8
